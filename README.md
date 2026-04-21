@@ -19,8 +19,6 @@ The retail store wants to attract more female customers, the owner want you to u
 - Using Excel to visually assess the dataset provided, create comprehensive dashboard
 
 ## Dashboard
-<img width="1588" height="581" alt="Dashboard" src="https://github.com/user-attachments/assets/b058fff4-f0bf-4ed5-b0b2-0070c29c869b" />
-
 ![Dashboard](https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg)
 
 ## Project Insights
