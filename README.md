@@ -1,6 +1,6 @@
 # Customer Shopping Trends Analysis (Dashboard creation using MS Excel)
 ## Project Objective
-The retail store wants to attract more female customers, the owner want you to use the data the store has on female customers and suggest strategy for her.
+The retail store wants to attract more female customers because the ratio of male and female is 68:32, the owner want to suggest strategy for her to increase more female customers.
 
 ## Dataset used
 - <a href="https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Customer%20Shopping%20Trends.csv">Dataset</a>
@@ -14,9 +14,9 @@ The retail store wants to attract more female customers, the owner want you to u
 - Which shipping type did customer prefer?
 - Dashboard Interaction <a href="https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg">View Dashboard</a>
 ## Process
-- Using SQL for data manipulating and feature engineering
-- Using SQL to create datasets
-- Using Excel to visually assess the dataset provided, create comprehensive dashboard
+- Using SQL for data manipulating and feature engineering.
+- Using SQL to create datasets.
+- Using Excel Pivot Table and Pivot Chart to create comprehensive dashboard.
 
 ## Dashboard
 ![Dashboard](https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg)
@@ -30,6 +30,7 @@ The retail store wants to attract more female customers, the owner want you to u
 ## Final Strategy
 - Invest in campaigns and banners featuring dresses, blouses, shoes, jewelry with  female-centric messaging like comfort, elegance and affordable.
 - Offer free shipping and sale-off campaigns targeted to female segments, especially during Spring and Fall.
-- Highlight paypal, credit card and cash in visible check out methods on website and app.
+- Promote 5-10% discount on bundled products purchases during sale period and promotional campaign. 
+- Highlight paypal, credit card and cash in checkout payment methods on website and app.
 
 
