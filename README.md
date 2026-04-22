@@ -12,14 +12,14 @@ The retail store wants to attract more female customers because the ratio of mal
 - Which payment methods that customers prefer?
 - Which seasons did customers purchase most?
 - Which shipping type did customer prefer?
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg">View Dashboard</a>
 ## Process
 - Using SQL for data manipulating and feature engineering.
 - Using SQL to create datasets.
 - Using Excel Pivot Table and Pivot Chart to create comprehensive dashboard.
 
 ## Dashboard
-![Dashboard]()
+![Dashboard](https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg)
 
 ## Project Insights
 - Customers aged 18–59 are a high-value with two popular categories including Clothing (1,737 purchases) and Accessories (1,240 purchases) that have strong appeal segments for female customers.
