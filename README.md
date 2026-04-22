@@ -19,8 +19,7 @@ The retail store wants to attract more female customers because the ratio of mal
 - Using Excel Pivot Table and Pivot Chart to create comprehensive dashboard.
 
 ## Dashboard
-![Dashboard](<img width="1747" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/678ad728-cced-4255-8566-acda68a7c3d6" />
-)
+![Dashboard]()
 
 ## Project Insights
 - Customers aged 18–59 are a high-value with two popular categories including Clothing (1,737 purchases) and Accessories (1,240 purchases) that have strong appeal segments for female customers.
