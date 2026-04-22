@@ -18,7 +18,7 @@ The owner of a retail store in London wants to attract more female customers the
 ## Process
 - Using SQL for data manipulating and feature engineering.
 - Using SQL to create datasets.
-- Using Excel Pivot Table and Pivot Chart to create comprehensive dashboard.
+- Using Excel Pivot Table and Pivot Chart to create comprehensive dashboard from datasets
 
 ## Dashboard
 ![Dashboard](https://github.com/lucy03-03/Customer-Shopping-Trends/blob/main/Dashboard.jpg)
